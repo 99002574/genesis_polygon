@@ -6,10 +6,14 @@
 //#define PROJECT_NAME    "Calculator"
 
 /* Prototypes for all the test functions */
-void test_add(void);
-void test_subtract(void);
-void test_multiply(void);
-void test_divide(void);
+void test_triar(void);
+void test_triper(void);
+void test_sqar(void);
+void test_sqper(void);
+void test_recar(void);
+void test_recper(void);
+void test_cirar(void);
+void test_cirper(void);
 
 /* Start of the application test */
 int main() {
