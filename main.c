@@ -25,11 +25,11 @@ else if (inp==3){
         rect_per=rectangle_per(leng,bre);
 }
 else if (inp==4){
-        scanf("%d",&cir_rad);
-        cir_area=circle_area(cir_rad);
-        cir_per=circle_per(cir_rad);
+        scanf("%d",&rad);
+        cir_area=circle_area(rad);
+        cir_per=circle_per(rad);
         }
 
-else printf("\nWrong input")
+else printf("\nWrong input");
 
 }
