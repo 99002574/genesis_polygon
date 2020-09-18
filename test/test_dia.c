@@ -3,7 +3,7 @@
 
 /* Modify these two lines according to the project */
 #include <dia.h>
-//#define PROJECT_NAME    "Calculator"
+#define PROJECT_NAME    "polygon"
 
 /* Prototypes for all the test functions */
 void test_triar(void);
