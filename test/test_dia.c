@@ -3,6 +3,7 @@
 
 /* Modify these two lines according to the project */
 #include <dia.h>
+#include<math.h>
 #define PROJECT_NAME    "polygon"
 
 /* Prototypes for all the test functions */
